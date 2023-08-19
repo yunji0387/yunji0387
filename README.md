@@ -1,4 +1,4 @@
-👞⚽💻📱🏢🍌🚀🔰🚯♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Last Update: 8/19/2023
+👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Last Update: 8/19/2023
 
 # Hi👋 I'm Yun Ji &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗click me](https://yunji-portfolio-f62b07e92b28.herokuapp.com/)
 
@@ -17,7 +17,7 @@
 - Web that provides basic information for stocks, cryptos, weather.
 - Used: node.js, express.js, ejs, html, css, mongoDB, REST API
 
-## 📓 Academic Projects
+## 🎓 Academic Projects
 ### [🔗Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp)
 - Text Mining: Sentiment Analysis and Recommendation System on Yelp Reviews.
 - Used: pandas, python, jupyter notebook.  
@@ -37,6 +37,7 @@
 - 💻 programming
 - 📱 web/software development
 - 🎮 game development (planning to learn in future)
+- 👤 Artificial Intelligence (planning to learn in future)
 
 ## 🔭 Working on ...
 - 🔰 Full-stack Weather app
