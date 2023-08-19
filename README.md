@@ -15,7 +15,7 @@
 
 ### [🔗**Daily Web**](https://github.com/yunji0387/DailyWebBlog-v1) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://dailyweb-51c4ca40411a.herokuapp.com/)
 - Web that provides basic information for stocks, cryptos, weather.
-- Used: node.js, express.js, ejs, html, css, mongoDB, REST API
+- Used: node.js, express.js, ejs, jquery, html, css, mongoDB, REST API
 
 ## 🎓 Academic Projects
 ### [🔗Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp)
