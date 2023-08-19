@@ -26,6 +26,13 @@
 - basic ray tracing techniques.
 - Used: openGL, c++, visual studio.
 
+## 📄 Note ...
+- [🔗Git commands](https://github.com/yunji0387/GitCommands)
+- [🔗JavaScript commands](https://github.com/yunji0387/JS-Template) (Node.js, React.js, jQuery included)
+- [🔗Mongo/Mongoose commands](https://github.com/yunji0387/Mongo-Mongoose-Commands)
+- [🔗Django commands](https://github.com/yunji0387/django-commands)
+- [🔗C# commands](https://github.com/yunji0387/CSharp_commands)
+
 ## 👀 Interested in ...
 - 💻 programming
 - 📱 web/software development
