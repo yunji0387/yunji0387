@@ -1,4 +1,4 @@
-<p style="text-align: center;">👞⚽💻📱🏢🍌🚀🔰🚯♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗</p>
+👞⚽💻📱🏢🍌🚀🔰🚯♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
 
 # Hi👋 I'm Yun Ji &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗click me](https://yunji-portfolio-f62b07e92b28.herokuapp.com/)
 
@@ -40,10 +40,8 @@
 - django
 
 ## 📞 Contact
-<p style="text-align: center;">
 <a href="https://linkedin.com/in/qwe123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="38" width="38" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="50" width="50" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ⬅️ (click me)
-</p>
