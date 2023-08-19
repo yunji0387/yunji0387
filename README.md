@@ -6,7 +6,7 @@ Last Update: 8/19/2023
 ### **Open to Work** 👀
 
 ## 💻 Personal Projects
-### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link]()
+### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
 - Simple weather app that shows current weather and forecast weather.
 - Used: React, html, css, node.js, express.js, mongoDB, REST API.
   
