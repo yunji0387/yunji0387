@@ -37,6 +37,7 @@ Last Update: 8/19/2023
 ## 👀 Interested in ...
 - 💻 programming
 - 📱 web/software development
+- 📟 .NET framework (planning to learn in future)
 - 🎮 game development (planning to learn in future)
 - 👤 Artificial Intelligence (planning to learn in future)
 
