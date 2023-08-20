@@ -46,7 +46,7 @@ Last Update: 8/19/2023
 
 ## 🌱 Learning ...
 - full-stack development
-- c#
+- c#, LINQ
 - django
 
 ## 📞 Contact
