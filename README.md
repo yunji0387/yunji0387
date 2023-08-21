@@ -42,7 +42,7 @@ Last Update: 8/19/2023
 - 👤 Artificial Intelligence: ML (planning to learn in future)
 
 ## 🔭 Working on ...
-- 🔰 Full-stack Weather app
+- 🔰 MERN-stack Weather app
 
 ## 🌱 Learning ...
 - MERN-stack development
