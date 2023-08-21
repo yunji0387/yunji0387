@@ -23,8 +23,8 @@ Last Update: 8/19/2023
 - Text Mining: Sentiment Analysis and Recommendation System on Yelp Reviews.
 - Used: pandas, python, jupyter notebook.  
 
-### Computer graphic - basic ray tracing techniques (Upload soon...)
-- basic ray tracing techniques.
+### [🔗Computer graphic - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project)
+- basic ray tracing techniques including BVH, Schlick's approximation, and anialiasing.
 - Used: openGL, c++, visual studio.
 
 ## 📄 Note ...
