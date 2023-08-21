@@ -45,7 +45,7 @@ Last Update: 8/19/2023
 - 🔰 Full-stack Weather app
 
 ## 🌱 Learning ...
-- full-stack development
+- MERN-stack development
 - c#, LINQ
 - django
 
