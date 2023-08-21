@@ -8,7 +8,7 @@ Last Update: 8/19/2023
 ## 💻 Personal Projects
 ### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
 - Simple weather app that shows current weather and forecast weather.
-- Used: React, html, css, node.js, express.js, mongoDB, REST API.
+- Used: MERN stack, React, html, css, node.js, express.js, mongoDB, REST API.
   
 ### [🔗**Mini Games app**](https://github.com/yunji0387/react-game-web) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://minigames-app-3c6a32fb25e7.herokuapp.com/)
 - Mini games created using react.
