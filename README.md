@@ -1,8 +1,7 @@
-### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗 
+### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗 ![football](./images/soccer.gif) <img src="./images/soccer.gif" width="50" height="50"/>
 Last Update: 8/21/2023
 
 # Hi👋 I'm Yun Ji &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗click me](https://yunji-portfolio-f62b07e92b28.herokuapp.com/)
-
 ### **Open to Work** 👀
 
 ## 💻 Personal Projects
@@ -34,7 +33,7 @@ Last Update: 8/21/2023
 - [🔗Django commands](https://github.com/yunji0387/django-commands)
 - [🔗C# commands](https://github.com/yunji0387/CSharp_commands)
 
-## 👀 Interested in ...
+## ![football](./images/soccer.gif) 👀 Interested in ...
 - 💻 programming
 - 📱 web/software development
 - 📟 .NET framework (planning to learn in future)
