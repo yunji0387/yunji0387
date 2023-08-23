@@ -9,7 +9,7 @@ Last Update: 8/21/2023
 - Simple weather app that shows current weather and forecast weather by calling weather app backend REST API server.
 - Used: React, html, CSS, responsive design.
 
-### [🔗**Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link]([https://sky-cast-854836ef4892.herokuapp.com/](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
+### [🔗**Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
 - A REST API server that takes return weather data
 - Used: node.js, express.js, mongoDB, REST API, ejs.
   
