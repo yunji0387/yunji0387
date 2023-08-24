@@ -36,7 +36,7 @@ Last Update: 8/21/2023
 - [🔗Mongo/Mongoose commands](https://github.com/yunji0387/Mongo-Mongoose-Commands)
 - [🔗Django commands](https://github.com/yunji0387/django-commands)
 - [🔗C# commands](https://github.com/yunji0387/CSharp_commands)
-- [AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
+- [🔗AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
 
 ## 👀 Interested in ...
 - 💻 programming
