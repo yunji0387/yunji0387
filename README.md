@@ -1,5 +1,5 @@
 ### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 8/21/2023
+Last Update: 8/23/2023
 
 # Hi👋 I'm Yun Ji &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗click me](https://yunji-portfolio-f62b07e92b28.herokuapp.com/)
 ### **Open to Work** 👀
