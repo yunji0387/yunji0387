@@ -2,7 +2,7 @@
 Last Update: 8/23/2023
 
 # Hi👋 I'm Yun Ji &nbsp;|&nbsp; [🔗click me](https://yunji-portfolio-f62b07e92b28.herokuapp.com/)
-### **Open to Work** 👀
+### **New Grad** &#183; **Open to Work** 👀
 
 ## 💻 Personal Projects
 ### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
