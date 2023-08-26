@@ -5,19 +5,19 @@ Last Update: 8/23/2023
 ### **Open to Work** 👀
 
 ## 💻 Personal Projects
-### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
+### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
 - Simple weather app that shows current weather and forecast weather by calling weather app backend REST API server.
 - Used: React, html, CSS, responsive design.
 
-### [🔗**Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
+### [🔗**Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;|&nbsp; [🔗web link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
 - A REST API server that takes return weather data
 - Used: node.js, express.js, mongoDB, REST API, ejs.
   
-### [🔗**Mini Games app**](https://github.com/yunji0387/react-game-web) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://minigames-app-3c6a32fb25e7.herokuapp.com/)
+### [🔗**Mini Games app**](https://github.com/yunji0387/react-game-web) &nbsp;|&nbsp; [🔗web link](https://minigames-app-3c6a32fb25e7.herokuapp.com/)
 - Mini games created using react.
 - Used: React, html, css, react hook, responsive design.
 
-### [🔗**Daily Web**](https://github.com/yunji0387/DailyWebBlog-v1) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🔗web link](https://dailyweb-51c4ca40411a.herokuapp.com/)
+### [🔗**Daily Web**](https://github.com/yunji0387/DailyWebBlog-v1) &nbsp;|&nbsp; [🔗web link](https://dailyweb-51c4ca40411a.herokuapp.com/)
 - Web that provides basic information for stocks, cryptos, weather.
 - Used: node.js, express.js, ejs, jquery, html, css, mongoDB, REST API
 
