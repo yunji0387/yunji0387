@@ -52,6 +52,7 @@ Last Update: 8/23/2023
 - MERN-stack development
 - c#, LINQ
 - django
+- React Native
 
 ## 📞 Contact
 <a href="https://linkedin.com/in/qwe123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="38" width="38" /></a>
