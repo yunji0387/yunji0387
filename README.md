@@ -31,12 +31,12 @@ Last Update: 8/23/2023
 - Used: openGL, c++, visual studio.
 
 ## 📄 Note ...
+- [🔗AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
 - [🔗Git commands](https://github.com/yunji0387/GitCommands)
 - [🔗JavaScript commands](https://github.com/yunji0387/JS-Template) (Node.js, React.js, jQuery included)
 - [🔗Mongo/Mongoose commands](https://github.com/yunji0387/Mongo-Mongoose-Commands)
 - [🔗Django commands](https://github.com/yunji0387/django-commands)
 - [🔗C# commands](https://github.com/yunji0387/CSharp_commands)
-- [🔗AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
 
 ## 👀 Interested in ...
 - 💻 programming
