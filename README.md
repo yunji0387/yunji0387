@@ -1,5 +1,5 @@
 ### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 8/23/2023
+Last Update: 8/30/2023
 
 # Hi👋 I'm Yun Ji &nbsp;|&nbsp; [🔗click me](https://yunji-portfolio-f62b07e92b28.herokuapp.com/)
 ### **New Grad** &#183; **Open to Work** 👀
@@ -38,6 +38,7 @@ Last Update: 8/23/2023
 - [🔗Mongo/Mongoose commands](https://github.com/yunji0387/Mongo-Mongoose-Commands)
 - [🔗Django commands](https://github.com/yunji0387/django-commands)
 - [🔗C# commands](https://github.com/yunji0387/CSharp_commands)
+- [🔗UX/UI Design Principles](https://github.com/yunji0387/ux-ui-note)
 
 ## 👀 Interested in ...
 - 💻 programming
