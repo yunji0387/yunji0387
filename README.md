@@ -13,7 +13,7 @@ Last Update: 8/23/2023
 - A REST API server that takes return weather data
 - Used: node.js, express.js, mongoDB, REST API, ejs.
   
-### [🔗**Mini Games app**](https://github.com/yunji0387/react-game-web) &nbsp;|&nbsp; [🔗web link](https://minigames-app-3c6a32fb25e7.herokuapp.com/)
+### [🔗**Mini Games app**](https://github.com/yunji0387/react-game-web) &nbsp;|&nbsp; [🔗web link](https://yunji0387.github.io/react-game-web/)
 - Mini games created using react.
 - Used: React, html, css, react hook, responsive design.
 
