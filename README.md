@@ -32,13 +32,13 @@ Last Update: 8/30/2023
 
 ## 📄 Note ...
 - [🔗AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
+- [🔗UX/UI Design Principles](https://github.com/yunji0387/ux-ui-note)
 - [🔗Git commands](https://github.com/yunji0387/GitCommands)
 - [🔗React commands](https://github.com/yunji0387/react-commands)
 - [🔗JavaScript commands](https://github.com/yunji0387/JS-Template) (Node.js, jQuery included)
 - [🔗Mongo/Mongoose commands](https://github.com/yunji0387/Mongo-Mongoose-Commands)
 - [🔗Django commands](https://github.com/yunji0387/django-commands)
 - [🔗C# commands](https://github.com/yunji0387/CSharp_commands)
-- [🔗UX/UI Design Principles](https://github.com/yunji0387/ux-ui-note)
 
 ## 👀 Interested in ...
 - 💻 programming
