@@ -31,14 +31,15 @@ Last Update: 8/30/2023
 - Used: openGL, c++, visual studio.
 
 ## 📄 Note ...
-- [🔗AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
 - [🔗UX/UI Design Principles](https://github.com/yunji0387/ux-ui-note)
+- [🔗.NET commands](https://github.com/yunji0387/dotnet_commands)
 - [🔗Git commands](https://github.com/yunji0387/GitCommands)
 - [🔗React commands](https://github.com/yunji0387/react-commands)
 - [🔗JavaScript commands](https://github.com/yunji0387/JS-Template) (Node.js, jQuery included)
 - [🔗Mongo/Mongoose commands](https://github.com/yunji0387/Mongo-Mongoose-Commands)
 - [🔗Django commands](https://github.com/yunji0387/django-commands)
 - [🔗C# commands](https://github.com/yunji0387/CSharp_commands)
+- [🔗AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
 
 ## 👀 Interested in ...
 - 💻 programming
