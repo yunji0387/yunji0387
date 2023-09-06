@@ -53,7 +53,7 @@ Last Update: 8/30/2023
 
 ## 🌱 Learning ...
 - MERN-stack development
-- c#, LINQ, .NET
+- c#, LINQ, .NET, Blazor
 - django
 - React Native
 
