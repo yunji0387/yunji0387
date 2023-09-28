@@ -5,7 +5,7 @@ Last Update: 9/28/2023
 ### **New Grad** &#183; **Open to Work** 👀
 
 ## 💻 Personal Projects
-### [🔗**MUI FrontEnd App**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link]()
+### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link]()
 - A front-end website is primarily built using the React MUI (Material-UI) library.
 - Used: React, MUI, responsive design, Git/GitHub.
 
