@@ -1,10 +1,14 @@
 ### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 8/30/2023
+Last Update: 9/28/2023
 
 # Hi👋 I'm Yun Ji &nbsp;|&nbsp; [🔗click me](https://yunji-portfolio-f62b07e92b28.herokuapp.com/)
 ### **New Grad** &#183; **Open to Work** 👀
 
 ## 💻 Personal Projects
+### [🔗**MUI FrontEnd App**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link]()
+- A front-end website is primarily built using the React MUI (Material-UI) library.
+- Used: React, MUI, responsive design, Git/GitHub.
+
 ### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
 - Simple weather app that shows current weather and forecast weather by calling weather app backend REST API server.
 - Used: React, html, CSS, responsive design.
