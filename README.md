@@ -1,11 +1,11 @@
 ### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 9/28/2023
+Last Update: 10/2/2023
 
 # Hi👋 I'm Yun Ji &nbsp;|&nbsp; [🔗click me](https://yunji-portfolio-f62b07e92b28.herokuapp.com/)
 ### **New Grad** &#183; **Open to Work** 👀
 
 ## 💻 Personal Projects
-### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link]()
+### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://little-lemon-restaurant-3d230a2faa77.herokuapp.com/)
 - A front-end website is primarily built using the React MUI (Material-UI) library.
 - Used: React, MUI, responsive design, Git/GitHub.
 
