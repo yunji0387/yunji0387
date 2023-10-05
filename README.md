@@ -5,7 +5,7 @@ Last Update: 10/2/2023
 ### **New Grad** &#183; **Open to Work** 👀
 
 ## 💻 Personal Projects
-### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://little-lemon-restaurant-3d230a2faa77.herokuapp.com/)
+### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://little-lemon-restaurant-88e8841b3bad.herokuapp.com/)
 - A front-end website is primarily built using the React MUI (Material-UI) library.
 - Used: React, MUI, responsive design, Git/GitHub.
 
