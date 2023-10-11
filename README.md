@@ -7,7 +7,7 @@ Last Update: 10/10/2023
 ## 💻 Personal Projects
 
 ### [🔗**Hydrological Analysis**](https://github.com/yunji0387/hydrological_analysis)
-- Analyzed and forecasted using Manitoba Hydro's hydrological data
+- Analyzed and forecasted using Manitoba Hydro's hydrological data.
 - Used: Jupyter Notebook, Python, Pandas.
 
 ### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://little-lemon-restaurant-88e8841b3bad.herokuapp.com/)
