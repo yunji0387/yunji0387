@@ -1,10 +1,15 @@
 ### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 10/2/2023
+Last Update: 10/10/2023
 
 # Hi👋 I'm Yun Ji &nbsp;|&nbsp; [🔗click me](https://yunji0387.github.io/my-portfolio/)
 ### **New Grad** &#183; **Open to Work** 👀
 
 ## 💻 Personal Projects
+
+### [🔗**Hydrological Analysis**](https://github.com/yunji0387/hydrological_analysis)
+- Analyzed and forecasted using Manitoba Hydro's hydrological data
+- Used: Jupyter Notebook, Python, Pandas.
+
 ### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://little-lemon-restaurant-88e8841b3bad.herokuapp.com/)
 - A front-end website is primarily built using the React MUI (Material-UI) library.
 - Used: React, MUI, responsive design, Git/GitHub.
