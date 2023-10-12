@@ -40,15 +40,25 @@ Last Update: 10/10/2023
 - Used: openGL, c++, visual studio.
 
 ## 📄 Note ...
+<details close>
+<summary><b>(click to expand/hide)</b></summary>
+<!-- MarkdownTOC -->
+
+- [🔗Computer Science notes](https://github.com/yunji0387/cs-note)
+- [🔗Microsoft Azure notes](https://github.com/yunji0387/microsoft-azure-notes)
 - [🔗UX/UI Design Principles](https://github.com/yunji0387/ux-ui-note)
 - [🔗.NET commands](https://github.com/yunji0387/dotnet_commands)
 - [🔗Git commands](https://github.com/yunji0387/GitCommands)
 - [🔗React commands](https://github.com/yunji0387/react-commands)
 - [🔗JavaScript commands](https://github.com/yunji0387/JS-Template) (Node.js, jQuery included)
+- [🔗HTML metadata commands](https://github.com/yunji0387/html_notes)
 - [🔗Mongo/Mongoose commands](https://github.com/yunji0387/Mongo-Mongoose-Commands)
 - [🔗Django commands](https://github.com/yunji0387/django-commands)
 - [🔗C# commands](https://github.com/yunji0387/CSharp_commands)
 - [🔗AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
+
+<!-- /MarkdownTOC -->
+</details>
 
 ## 👀 Interested in ...
 - 💻 programming
