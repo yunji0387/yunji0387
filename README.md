@@ -6,7 +6,7 @@ Last Update: 10/10/2023
 
 ## 💻 Personal Projects
 
-### [🔗**Hydrological Analysis**](https://github.com/yunji0387/hydrological_analysis)
+### [🔗**Hydrological Data Analysis**](https://github.com/yunji0387/hydrological_analysis)
 - Analyzed and forecasted using Manitoba Hydro's hydrological data.
 - Used: Jupyter Notebook, Python, Pandas.
 
