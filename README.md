@@ -68,13 +68,14 @@ Last Update: 10/10/2023
 - 👤 Artificial Intelligence: ML (planning to learn in future)
 
 ## 🔭 Working on ...
-- 🔰 MERN-stack Weather app
+- 🔰 Microsoft Azure: Fundamental
+- 💻 Hydrological Data Analysis
 
 ## 🌱 Learning ...
+- DevOps Culture
 - MERN-stack development
-- c#, LINQ, .NET, Blazor
-- django
-- React Native
+- React Native, .NET
+- c#, LINQ, Blazor, django
 
 ## 📞 Contact
 <a href="https://www.linkedin.com/in/yun-ji-how-64025220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="38" width="38" /></a>
