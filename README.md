@@ -1,8 +1,8 @@
 ### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 10/10/2023
+Last Update: 10/31/2023
 
 # Hi👋 I'm Yun Ji &nbsp;|&nbsp; [🔗click me](https://yunji0387.github.io/my-portfolio/)
-### **New Grad** &#183; **Open to Work** 👀
+### **Computer Science Grad** &#183; **Open to Work** 👀
 
 ## 💻 Personal Projects
 
