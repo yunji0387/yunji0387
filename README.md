@@ -7,36 +7,47 @@ Last Update: 10/31/2023
 ## 💻 Personal Projects
 
 ### [🔗**Hydrological Data Analysis**](https://github.com/yunji0387/hydrological_analysis)
-- Analyzed and forecasted using Manitoba Hydro's hydrological data.
+- Analyzed water level, temperature, and more from Cedar Lake station to identify trends.
+- Utilized the ARIMA model for a 10-day forecast, providing predictions on weather patterns.
 - Used: Jupyter Notebook, Python, Pandas.
 
 ### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://little-lemon-restaurant-88e8841b3bad.herokuapp.com/)
-- A front-end website is primarily built using the React MUI (Material-UI) library.
-- Used: React, MUI, responsive design, Git/GitHub.
+- Followed the UX process, transitioning from wireframes to high-fidelity prototypes, and conducted user
+evaluations on the final design.
+- Designed a mobile-responsive interface with Material UI for improved user experience.
+- Incorporated Formik for efficient and reliable client-side form validation for table reservations.
+- Used: React, MUI, responsive design, UX/UI, Material UI, Formik, Figma, Git/GitHub.
 
 ### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
-- Simple weather app that shows current weather and forecast weather by calling weather app backend REST API server.
-- Used: React, html, CSS, responsive design.
+- Developed a mobile-responsive app with CSS media queries for an enhanced visual web experience.
+- Integrated Google Place API for location-based autocomplete, enhancing user search experience.
+- Used: MERN stack, CSS, responsive design, Google Place API.
 
 ### [🔗**Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;|&nbsp; [🔗web link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
-- A REST API server that takes return weather data
-- Used: node.js, express.js, mongoDB, REST API, ejs.
-  
+- Utilized MongoDB to store weather data and achieved seamless integration between frontend and backend.
+- Used: Node.js, Express.js, MongoDB, REST APIs, EJS, Open Weather API.
+
+### [🔗**Daily Web**](https://github.com/yunji0387/DailyWebBlog-v1) &nbsp;|&nbsp; [🔗web link](https://dailyweb-51c4ca40411a.herokuapp.com/)
+- A comprehensive full-stack web application.
+- Fetches and displays data on cryptocurrencies, stocks, and weather via REST APIs.
+- Stores data efficiently using MongoDB.
+- Renders data on the frontend utilizing EJS templates.
+- Technologies employed: Node.js, Express.js, EJS, JQuery, HTML, CSS, MongoDB, and REST APIs.
+- Used: Node.js, Express.js, EJS, JQuery, HTML, CSS, MongoDB, REST APIs
+
 ### [🔗**Mini Games app**](https://github.com/yunji0387/react-game-web) &nbsp;|&nbsp; [🔗web link](https://yunji0387.github.io/react-game-web/)
 - Mini games created using react.
 - Used: React, html, css, react hook, responsive design.
 
-### [🔗**Daily Web**](https://github.com/yunji0387/DailyWebBlog-v1) &nbsp;|&nbsp; [🔗web link](https://dailyweb-51c4ca40411a.herokuapp.com/)
-- Web that provides basic information for stocks, cryptos, weather.
-- Used: node.js, express.js, ejs, jquery, html, css, mongoDB, REST API
-
 ## 🎓 Academic Projects
 ### [🔗Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp)
-- Text Mining: Sentiment Analysis and Recommendation System on Yelp Reviews.
+- Analyzed and curated data, deriving insights about the most-reviewed cities.
+- Utilized the TF-IDF approach to enhance sentiment analysis results.
+- Applied K-Means clustering, recommending restaurants with similar profiles to users.
 - Used: pandas, python, jupyter notebook.  
 
 ### [🔗Computer graphic - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project)
-- basic ray tracing techniques including BVH, Schlick's approximation, and anialiasing.
+- Implemented basic ray tracing techniques including BVH, Schlick's approximation, and anialiasing.
 - Used: openGL, c++, visual studio.
 
 ## 📄 Note ...
@@ -44,6 +55,7 @@ Last Update: 10/31/2023
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
+- [🔗DevOps notes](https://github.com/yunji0387/devops-note)
 - [🔗Computer Science notes](https://github.com/yunji0387/cs-note)
 - [🔗Microsoft Azure notes](https://github.com/yunji0387/microsoft-azure-notes)
 - [🔗UX/UI Design Principles](https://github.com/yunji0387/ux-ui-note)
@@ -67,13 +79,13 @@ Last Update: 10/31/2023
 - 👤 Artificial Intelligence: ML (planning to learn in future)
 
 ## 🔭 Working on ...
-- 🔰 Microsoft Azure: Fundamental
-- 💻 Hydrological Data Analysis
+- 🔰 Microservices, CI/CD
+- 🎮 Godot 4
 
 ## 🌱 Learning ...
-- DevOps Culture
-- MERN-stack development
-- React Native, .NET
+- DevOps - Microservices, CI/CD
+- MERN-stack development - Industry standard
+- React Native, .NET, redux
 - c#, LINQ, Blazor, django
 
 ## 📞 Contact
