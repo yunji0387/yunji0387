@@ -1,6 +1,3 @@
-### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 10/31/2023
-
 # Hi👋 I'm Yun Ji &nbsp;|&nbsp; [🔗click me](https://yunji0387.github.io/my-portfolio/)
 ### **Computer Science Grad** &#183; **Open to Work** 👀
 
@@ -94,3 +91,8 @@ evaluations on the final design.
 <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="50" width="50" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ⬅️ (click me)
+
+---
+
+### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
+Last Update: 10/31/2023
