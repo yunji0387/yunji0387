@@ -15,12 +15,12 @@ evaluations on the final design.
 - Incorporated Formik for efficient and reliable client-side form validation for table reservations.
 - Used: React, MUI, responsive design, UX/UI, Material UI, Formik, Figma, Git/GitHub.
 
-### [🔗**Weather app**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
+### [🔗**Sky Cast Weather app**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
 - Developed a mobile-responsive app with CSS media queries for an enhanced visual web experience.
 - Integrated Google Place API for location-based autocomplete, enhancing user search experience.
 - Used: MERN stack, CSS, responsive design, Google Place API.
 
-### [🔗**Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;|&nbsp; [🔗web link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
+### [🔗**Sky Cast Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;|&nbsp; [🔗web link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
 - Utilized MongoDB to store weather data and achieved seamless integration between frontend and backend.
 - Used: Node.js, Express.js, MongoDB, REST APIs, EJS, Open Weather API.
 
