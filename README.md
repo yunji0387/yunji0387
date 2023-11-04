@@ -43,7 +43,7 @@ evaluations on the final design.
 - Applied K-Means clustering, recommending restaurants with similar profiles to users.
 - Used: pandas, python, jupyter notebook.  
 
-### [🔗Computer graphic - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project)
+### [🔗Computer graphics - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project)
 - Implemented basic ray tracing techniques including BVH, Schlick's approximation, and anialiasing.
 - Used: openGL, c++, visual studio.
 
