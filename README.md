@@ -3,11 +3,6 @@
 
 ## 💻 Personal Projects
 
-### [🔗**Hydrological Data Analysis**](https://github.com/yunji0387/hydrological_analysis)
-- Analyzed water level, temperature, and more from Cedar Lake station to identify trends.
-- Utilized the ARIMA model for a 10-day forecast, providing predictions on weather patterns.
-- Used: Jupyter Notebook, Python, Pandas.
-
 ### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://little-lemon-restaurant-88e8841b3bad.herokuapp.com/)
 - Followed the UX process, transitioning from wireframes to high-fidelity prototypes, and conducted user
 evaluations on the final design.
@@ -23,6 +18,11 @@ evaluations on the final design.
 ### [🔗**Sky Cast Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;|&nbsp; [🔗web link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
 - Utilized MongoDB to store weather data and achieved seamless integration between frontend and backend.
 - Used: Node.js, Express.js, MongoDB, REST APIs, EJS, Open Weather API.
+
+### [🔗**Hydrological Data Analysis**](https://github.com/yunji0387/hydrological_analysis)
+- Analyzed water level, temperature, and more from Cedar Lake station to identify trends.
+- Utilized the ARIMA model for a 10-day forecast, providing predictions on weather patterns.
+- Used: Jupyter Notebook, Python, Pandas.
 
 ### [🔗**Daily Web**](https://github.com/yunji0387/DailyWebBlog-v1) &nbsp;|&nbsp; [🔗web link](https://dailyweb-51c4ca40411a.herokuapp.com/)
 - A comprehensive full-stack web application.
