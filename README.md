@@ -3,7 +3,7 @@
 
 ## 💻 Personal Projects
 
-### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://little-lemon-restaurant-88e8841b3bad.herokuapp.com/)
+### [🔗**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://meta-fe-capstone.vercel.app/)
 - Followed the UX process, transitioning from wireframes to high-fidelity prototypes, and conducted user
 evaluations on the final design.
 - Designed a mobile-responsive interface with Material UI for improved user experience.
