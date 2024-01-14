@@ -19,10 +19,18 @@ evaluations on the final design.
 - Utilized MongoDB to store weather data and achieved seamless integration between frontend and backend.
 - Used: Node.js, Express.js, MongoDB, REST APIs, EJS, Open Weather API.
 
+### [🔗**Next.js Multi-Step Form**](https://github.com/yunji0387/next-form-app) &nbsp;|&nbsp; [🔗web link](https://next-form-app-pi.vercel.app/)
+- Developed a mobile-responsive multi-step form web application.
+- Used: Next.js, Tailwind CSS, TypeScript, Node.js(backend server).
+
 ### [🔗**Hydrological Data Analysis**](https://github.com/yunji0387/hydrological_analysis)
 - Analyzed water level, temperature, and more from Cedar Lake station to identify trends.
 - Utilized the ARIMA model for a 10-day forecast, providing predictions on weather patterns.
 - Used: Jupyter Notebook, Python, Pandas.
+
+### [🔗**Godot 2D Platformer Game**](https://github.com/yunji0387/my-first-godot-game) &nbsp;|&nbsp;
+- A 2D platformer with animated characters, UI elements, enemies, and game-saving features.
+- Used: Godot 4, GDScript.
 
 ### [🔗**Daily Web**](https://github.com/yunji0387/DailyWebBlog-v1) &nbsp;|&nbsp; [🔗web link](https://dailyweb-51c4ca40411a.herokuapp.com/)
 - A comprehensive full-stack web application.
@@ -95,4 +103,4 @@ evaluations on the final design.
 ---
 
 ### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 10/31/2023
+Last Update: 1/13/2024
