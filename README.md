@@ -1,5 +1,6 @@
-# Hi👋 I'm Yun Ji &nbsp;|&nbsp; [🔗click me](https://next-portfolio-zeta-hazel.vercel.app/)
-### **Computer Science Grad** &#183; **Open to Work** 👀
+# Hi👋 I'm Yun Ji
+### [🔗Checkout my portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
+### **Software Developer, Computer Science Grad** &#183; **Open to Work** 👀
 
 ## 💻 Personal Projects
 
