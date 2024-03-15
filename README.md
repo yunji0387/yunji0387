@@ -80,9 +80,9 @@ evaluations on the final design.
 
 ## 👀 Interested in ...
 - 💻 programming
-- 📱 web/software development
-- 🎮 game development: Unity/Unreal (planning to learn in future)
-- 👤 Artificial Intelligence: ML (planning to learn in future)
+- 📱 web/software/mobile development
+- 🎮 game development: Unity/Unreal
+- 👤 Artificial Intelligence: ML
 
 ## 🔭 Working on ...
 - 🔰 Microservices, CI/CD
