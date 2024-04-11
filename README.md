@@ -20,31 +20,6 @@ evaluations on the final design.
 - Utilized MongoDB to store weather data and achieved seamless integration between frontend and backend.
 - Used: Node.js, Express.js, MongoDB, REST APIs, EJS, Open Weather API.
 
-### [🔗**Next.js Multi-Step Form**](https://github.com/yunji0387/next-form-app) &nbsp;|&nbsp; [🔗web link](https://next-form-app-pi.vercel.app/)
-- Developed a mobile-responsive multi-step form web application.
-- Used: Next.js, Tailwind CSS, TypeScript, Node.js(backend server).
-
-### [🔗**Hydrological Data Analysis**](https://github.com/yunji0387/hydrological_analysis)
-- Analyzed water level, temperature, and more from Cedar Lake station to identify trends.
-- Utilized the ARIMA model for a 10-day forecast, providing predictions on weather patterns.
-- Used: Jupyter Notebook, Python, Pandas.
-
-### [🔗**Godot 2D Platformer Game**](https://github.com/yunji0387/my-first-godot-game) &nbsp;|&nbsp;
-- A 2D platformer with animated characters, UI elements, enemies, and game-saving features.
-- Used: Godot 4, GDScript.
-
-### [🔗**Daily Web**](https://github.com/yunji0387/DailyWebBlog-v1) &nbsp;|&nbsp; [🔗web link](https://dailyweb-51c4ca40411a.herokuapp.com/)
-- A comprehensive full-stack web application.
-- Fetches and displays data on cryptocurrencies, stocks, and weather via REST APIs.
-- Stores data efficiently using MongoDB.
-- Renders data on the frontend utilizing EJS templates.
-- Technologies employed: Node.js, Express.js, EJS, JQuery, HTML, CSS, MongoDB, and REST APIs.
-- Used: Node.js, Express.js, EJS, JQuery, HTML, CSS, MongoDB, REST APIs
-
-### [🔗**Mini Games app**](https://github.com/yunji0387/react-game-web) &nbsp;|&nbsp; [🔗web link](https://yunji0387.github.io/react-game-web/)
-- Mini games created using react.
-- Used: React, html, css, react hook, responsive design.
-
 ## 🎓 Academic Projects
 ### [🔗Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp)
 - Analyzed and curated data, deriving insights about the most-reviewed cities.
@@ -78,22 +53,6 @@ evaluations on the final design.
 <!-- /MarkdownTOC -->
 </details>
 
-## 👀 Interested in ...
-- 💻 programming
-- 📱 web/software/mobile development
-- 🎮 game development: Unity/Unreal
-- 👤 Artificial Intelligence: ML
-
-## 🔭 Working on ...
-- 🔰 Microservices, CI/CD
-- 🎮 Godot 4
-
-## 🌱 Learning ...
-- DevOps - Microservices, CI/CD
-- MERN-stack development - Industry standard
-- React Native, .NET, redux
-- c#, LINQ, Blazor, django
-
 ## 📞 Contact
 <a href="https://www.linkedin.com/in/yun-ji-how-64025220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="38" width="38" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,4 +63,4 @@ evaluations on the final design.
 ---
 
 ### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
-Last Update: 1/13/2024
+Last Update: 4/11/2024
