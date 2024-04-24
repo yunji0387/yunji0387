@@ -1,6 +1,5 @@
 # Hi👋 I'm Yun Ji
 ## [🔗Checkout my portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
-### **Aspiring Software Developer** &#183; **Looking for New Opportunities** 👀
 
 ## 💻 Personal Projects
 
@@ -62,5 +61,4 @@ evaluations on the final design.
 
 ---
 
-### 👞⚽💻📱🏢🍌🚀🔰🚯👽♻️💦🐔🐰🍀🌏💡🌇🗿👓🎮🔗
 Last Update: 4/11/2024
