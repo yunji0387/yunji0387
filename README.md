@@ -17,6 +17,8 @@
 
 ### [**Restaurant App**](https://github.com/yunji0387/meta-fe-capstone) &nbsp; [ [web link](https://meta-fe-capstone.vercel.app/) ]
 
+### [**2D Platformer Game**](https://github.com/yunji0387/my-first-godot-game)
+
 ## 🎓 Academic Projects
 ### [Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp) &nbsp; [ [report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) ]
 
