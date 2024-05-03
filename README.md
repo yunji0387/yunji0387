@@ -22,7 +22,7 @@
 ---
 
 ## 🎓 Academic Projects
-### [Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp) &nbsp; [ [report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) ]
+### [Sentiment Analysis on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) &nbsp; [ [report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) ]
 
 ### [Computer graphics - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project) &nbsp; [ [report link](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) ]
 
