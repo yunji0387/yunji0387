@@ -19,12 +19,27 @@
 
 ### [**2D Platformer Game**](https://github.com/yunji0387/my-first-godot-game)
 
+---
+
 ## 🎓 Academic Projects
 ### [Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp) &nbsp; [ [report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) ]
 
 ### [Computer graphics - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project) &nbsp; [ [report link](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) ]
 
-## 📄 Note ...
+---
+
+## 📞 Contact
+<a href="https://www.linkedin.com/in/yun-ji-how-64025220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="38" width="38" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="50" width="50" /></a>
+
+---
+
+Last Update: 5/3/2024
+
+---
+
+📄 Note
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -45,14 +60,3 @@
 
 <!-- /MarkdownTOC -->
 </details>
-
-## 📞 Contact
-<a href="https://www.linkedin.com/in/yun-ji-how-64025220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="38" width="38" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="50" width="50" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-⬅️ (click me)
-
----
-
-Last Update: 4/11/2024
