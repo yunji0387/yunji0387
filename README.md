@@ -1,18 +1,26 @@
 # Hi👋 I'm Yun Ji
-## [🔗Checkout my portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
+## [🔗Portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
 
 ## 💻 Personal Projects
 
-### [**Little Lemon Restaurant app**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://meta-fe-capstone.vercel.app/)
+### [**Next Admin System**](https://github.com/yunji0387/next-form-app) &nbsp;|&nbsp; [🔗web link](https://next-form-app-pi.vercel.app/)
 
-### [**Sky Cast Weather app**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
+### [**Express Auth Server**](https://github.com/yunji0387/next-form-app-auth-backend) 
 
-### [**Sky Cast Weather app backend server**](https://github.com/yunji0387/weather-app-backend) &nbsp;|&nbsp; [🔗web link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
+### [**Football Mobile App**](https://github.com/yunji0387/football-app) &nbsp;|&nbsp; [🔗portfolio link](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1)
+
+### [**Football League Standings API Server**](https://github.com/yunji0387/football-standings-backend) &nbsp;|&nbsp; [🔗URL link](https://football-standings-backend-9c023af5d229.herokuapp.com/)
+
+### [**Weather App**](https://github.com/yunji0387/weather-app) &nbsp;|&nbsp; [🔗web link](https://sky-cast-854836ef4892.herokuapp.com/)
+
+### [**Weather App Backend Server**](https://github.com/yunji0387/weather-app-backend) &nbsp;|&nbsp; [🔗URL link](https://sky-cast-backend-b4e180440fb6.herokuapp.com/)
+
+### [**Restaurant App**](https://github.com/yunji0387/meta-fe-capstone) &nbsp;|&nbsp; [🔗web link](https://meta-fe-capstone.vercel.app/)
 
 ## 🎓 Academic Projects
-### [Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp)
+### [Yelp review sentiment analysis](https://github.com/Makiato1999/COMP4710_Yelp) &nbsp;|&nbsp; [🔗report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf)
 
-### [Computer graphics - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project)
+### [Computer graphics - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project) &nbsp;|&nbsp; [🔗report link](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf)
 
 ## 📄 Note ...
 <details close>
