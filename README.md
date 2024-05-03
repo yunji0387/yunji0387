@@ -1,4 +1,4 @@
-# Hi👋 I'm Yun Ji
+### Hi👋 I'm Yun Ji
 ## [🔗Portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
 
 ## 💻 Personal Projects
