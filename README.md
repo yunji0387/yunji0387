@@ -35,7 +35,9 @@
 
 ---
 
+## 🔰 Stats 
 ![Yun's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yunji0387&hide=["issues"]&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yunji0387&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
 ---
 
