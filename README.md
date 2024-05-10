@@ -35,6 +35,10 @@
 
 ---
 
+![Yun's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yunji0387&hide=["issues"]&show_icons=true)
+
+---
+
 Last Update: 5/3/2024
 
 ---
