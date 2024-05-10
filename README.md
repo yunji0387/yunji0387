@@ -1,5 +1,6 @@
 ### Hi👋 I'm Yun Ji
 ## [🔗Portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
+![GitHub Views](https://komarev.com/ghpvc/?username=yunji0387&color=1AB385)
 
 ## 💻 Personal Projects
 
