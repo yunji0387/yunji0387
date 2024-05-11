@@ -1,4 +1,7 @@
-### Hi👋 I'm Yun Ji
+[![image](https://github.com/yunji0387/yunji0387/assets/59977078/1280a342-049e-4641-8df5-5328d0f67bad)][1]
+
+### Hi👋
+
 ## [🔗Portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
 
 ## 💻 Personal Projects
@@ -69,3 +72,5 @@ Last Update: 5/3/2024
 
 <!-- /MarkdownTOC -->
 </details>
+
+[1]: https://next-portfolio-zeta-hazel.vercel.app/
