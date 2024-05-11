@@ -1,6 +1,5 @@
 ### Hi👋 I'm Yun Ji
 ## [🔗Portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
-![GitHub Views](https://komarev.com/ghpvc/?username=yunji0387&color=1AB385)
 
 ## 💻 Personal Projects
 
@@ -37,6 +36,7 @@
 ---
 
 ## 🔰 Stats 
+![GitHub Views](https://komarev.com/ghpvc/?username=yunji0387&color=1AB385)
 
 <img width=500 src='https://github-readme-stats.vercel.app/api?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=500 src='https://github-readme-streak-stats.herokuapp.com/?user=yunji0387&theme=vue-dark&hide_border=true' />
