@@ -1,4 +1,4 @@
-[![image](https://github.com/yunji0387/yunji0387/assets/59977078/10f89cad-2cfc-4886-b5bf-e0b04ca684a3)][1]
+[![image](https://github.com/yunji0387/yunji0387/assets/59977078/6e86e70c-dc37-4a76-87fc-bc29b8c1fd53)][1]
 
 ### Hi👋
 
