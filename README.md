@@ -10,7 +10,7 @@
 
 ### [**Express Auth Server**](https://github.com/yunji0387/next-form-app-auth-backend) 
 
-### [**Football Mobile App**](https://github.com/yunji0387/football-app) &nbsp; [ [portfolio link](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1) ]
+### [**Football Mobile App**](https://github.com/yunji0387/football-app) &nbsp; [ [prototype link](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1) ]
 
 ### [**Football League Standings API Server**](https://github.com/yunji0387/football-standings-backend) &nbsp; [ [URL link](https://football-standings-backend-9c023af5d229.herokuapp.com/) ]
 
