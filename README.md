@@ -12,17 +12,25 @@
   - [**Restaurant App**](https://github.com/yunji0387/meta-fe-capstone) &nbsp; [ [web link](https://meta-fe-capstone.vercel.app/) ]
   - [**Weather App**](https://github.com/yunji0387/weather-app) &nbsp; [ [web link](https://sky-cast-854836ef4892.herokuapp.com/) ]
 
+  ---
+
 - API Server Dev
   - [**Express Auth Server**](https://github.com/yunji0387/next-form-app-auth-backend)
   - [**Football League Standings API Server**](https://github.com/yunji0387/football-standings-backend) &nbsp; [ [URL link](https://football-standings-backend-9c023af5d229.herokuapp.com/) ]
   - [**Asset Price API Server**](https://github.com/yunji0387/goldtrend)
 
+  ---
+
 - Game Dev
   - [**2D Platformer Game**](https://github.com/yunji0387/my-first-godot-game)
   - [**Space Shooter**](https://github.com/yunji0387/space-shooter)
+ 
+  ---
 
 - Mobile Dev
   - [**Football Mobile App**](https://github.com/yunji0387/football-app) &nbsp; [ [prototype link](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1) ]
+
+  ---
 
 - Academic Projects
   - [Sentiment Analysis on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) &nbsp; [ [report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) ]
