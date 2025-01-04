@@ -4,7 +4,7 @@
 
 ---
 
-#### Projects
+### Projects
 
 - Web Dev
   - [**Next Admin System**](https://github.com/yunji0387/next-form-app) &nbsp; [ [web link](https://next-form-app-pi.vercel.app/) ]
@@ -39,14 +39,14 @@
 
 ---
 
-#### Contact
+### Contact
 <a href="https://www.linkedin.com/in/yun-ji-how-64025220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="38" width="38" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="50" width="50" /></a>
 
 ---
 
-#### Stats 
+### Stats 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yunji0387&color=1AB385)
 
 <img width=500 src='https://github-readme-stats.vercel.app/api?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
