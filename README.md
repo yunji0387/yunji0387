@@ -1,41 +1,26 @@
 [![image](https://github.com/yunji0387/yunji0387/assets/59977078/6e86e70c-dc37-4a76-87fc-bc29b8c1fd53)][1]
 
-### Hi👋 &ensp; | &ensp; [Web Portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
+### Hi👋 &ensp; &bull; &ensp; [Web Portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
 
 ---
 
 ### Projects
 
-- Web Dev
-  - [**Next Admin System**](https://github.com/yunji0387/next-form-app) &nbsp; [ [web link](https://next-form-app-pi.vercel.app/) ]
-  - [**Asset Trend**](https://github.com/yunji0387/goldtrend-app)
-  - [**Restaurant App**](https://github.com/yunji0387/meta-fe-capstone) &nbsp; [ [web link](https://meta-fe-capstone.vercel.app/) ]
-  - [**Weather App**](https://github.com/yunji0387/weather-app) &nbsp; [ [web link](https://sky-cast-854836ef4892.herokuapp.com/) ]
-
-  ---
-
-- API Server Dev
-  - [**Express Auth Server**](https://github.com/yunji0387/next-form-app-auth-backend)
-  - [**Football League Standings API Server**](https://github.com/yunji0387/football-standings-backend) &nbsp; [ [URL link](https://football-standings-backend-9c023af5d229.herokuapp.com/) ]
-  - [**Asset Price API Server**](https://github.com/yunji0387/goldtrend)
-
-  ---
-
-- Game Dev
-  - [**2D Platformer Game**](https://github.com/yunji0387/my-first-godot-game)
-  - [**Space Shooter**](https://github.com/yunji0387/space-shooter)
- 
-  ---
-
-- Mobile Dev
-  - [**Football Mobile App**](https://github.com/yunji0387/football-app) &nbsp; [ [prototype link](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1) ]
-
-  ---
-
-- Academic Projects
-  - [Sentiment Analysis on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) &nbsp; [ [report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) ]
-  - [Computer graphics - Basic ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project) &nbsp; [ [report link](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) ]
-  - [AVR Microcontroller - Scheduling Algorithm](https://github.com/yunji0387/AVR-Microcontroller-commands)
+| Name | Type | Links |
+|---|---|---|
+| Next Admin System | Web | [web link](https://next-form-app-pi.vercel.app/) &middot; [repo link](https://github.com/yunji0387/next-form-app) |
+| Asset Trend | Web | [repo link](https://github.com/yunji0387/goldtrend-app) |
+| Restaurant App | Web | [web link](https://meta-fe-capstone.vercel.app/) &middot; [repo link](https://github.com/yunji0387/meta-fe-capstone) |
+| Weather App | Web | [web link](https://sky-cast-854836ef4892.herokuapp.com/) &middot; [repo link](https://github.com/yunji0387/weather-app) |
+| Express Auth Server | API | [repo link](https://github.com/yunji0387/next-form-app-auth-backend) |
+| Football League Standings API Server | API | [URL link](https://football-standings-backend-9c023af5d229.herokuapp.com/) &middot; [repo link](https://github.com/yunji0387/football-standings-backend) |
+| Asset Price API Server | API | [repo link](https://github.com/yunji0387/goldtrend) |
+| 2D Platformer Game | Game | [repo link](https://github.com/yunji0387/my-first-godot-game) |
+| Space Shooter | Game | [repo link](https://github.com/yunji0387/space-shooter) |
+| Football Mobile App | Mobile | [prototytpe link](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1), [repo link](https://github.com/yunji0387/football-app) |
+| Sentiment Analysis on Yelp Reviews | Academic | [report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf), [repo link](https://github.com/Makiato1999/COMP4710_Yelp) |
+| Computer graphics - Ray tracing techniques | Academic | [report link](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf), [repo link](https://github.com/yunji0387/Ray_Tracing_Project) |
+| AVR Microcontroller - Scheduling Algorithm | Academic | [repo link](https://github.com/yunji0387/AVR-Microcontroller-commands) |
 
 ---
 
@@ -55,7 +40,7 @@
 
 ---
 
-Last Update: 1/4/2025
+Last Update: 14/Apr/2025
 
 ---
 
