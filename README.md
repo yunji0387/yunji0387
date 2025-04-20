@@ -20,7 +20,6 @@
 | Computer graphics - Ray tracing techniques | Academic | [report link](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) &middot; [repo link](https://github.com/yunji0387/Ray_Tracing_Project) |
 | AVR Microcontroller - Scheduling Algorithm | Academic | [repo link](https://github.com/yunji0387/AVR-Microcontroller-commands) |
 
----
 
 ### Stats 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yunji0387&color=1AB385)
@@ -29,30 +28,24 @@
 <img width=500 src='https://github-readme-streak-stats.herokuapp.com?user=yunji0387&theme=vue-dark&hide_border=true' />
 <img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
----
 
-📄 Note
 <details close>
-<summary><b>click to expand/hide</b></summary>
+<summary><b>📄 Note</b></summary>
 <!-- MarkdownTOC -->
 
-- [DevOps notes](https://github.com/yunji0387/devops-note)
-- [Computer Science notes](https://github.com/yunji0387/cs-note)
-- [Microsoft Azure notes](https://github.com/yunji0387/microsoft-azure-notes)
+- [DevOps](https://github.com/yunji0387/devops-note)
+- [Computer Science](https://github.com/yunji0387/cs-note)
+- [Microsoft Azure](https://github.com/yunji0387/microsoft-azure-notes)
 - [UX/UI Design Principles](https://github.com/yunji0387/ux-ui-note)
-- [.NET commands](https://github.com/yunji0387/dotnet_commands)
-- [Git commands](https://github.com/yunji0387/GitCommands)
-- [React commands](https://github.com/yunji0387/react-commands)
-- [JavaScript commands](https://github.com/yunji0387/JS-Template) (Node.js, jQuery included)
-- [HTML metadata commands](https://github.com/yunji0387/html_notes)
-- [Mongo/Mongoose commands](https://github.com/yunji0387/Mongo-Mongoose-Commands)
-- [Django commands](https://github.com/yunji0387/django-commands)
-- [C# commands](https://github.com/yunji0387/CSharp_commands)
-- [AVR Microcontroller commands](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
+- [.NET](https://github.com/yunji0387/dotnet_commands)
+- [Git](https://github.com/yunji0387/GitCommands)
+- [React](https://github.com/yunji0387/react-commands)
+- [JavaScript](https://github.com/yunji0387/JS-Template)
+- [HTML metadata](https://github.com/yunji0387/html_notes)
+- [Mongo/Mongoose](https://github.com/yunji0387/Mongo-Mongoose-Commands)
+- [Django](https://github.com/yunji0387/django-commands)
+- [C#](https://github.com/yunji0387/CSharp_commands)
+- [AVR Microcontroller](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
 
 <!-- /MarkdownTOC -->
 </details>
-
----
-
-Last Update: 20/Apr/2025
