@@ -24,9 +24,9 @@
 ### Stats 
 ![GitHub Views](https://komarev.com/ghpvc/?username=yunji0387&color=1AB385)
 
-<img width=500 src='https://github-readme-stats.vercel.app/api?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=500 src='https://github-readme-streak-stats.herokuapp.com?user=yunji0387&theme=vue-dark&hide_border=true' />
-<img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=500 src='https://github-readme-stats.vercel.app/api?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&title_color=bcb39e&text_color=fef8d6&icon_color=bcb39e&bg_color=3b364b' />
+<img width=500 src='https://github-readme-streak-stats.herokuapp.com?user=yunji0387&theme=vue-dark&hide_border=true&title_color=bcb39e&text_color=bcb39e&stroke=bcb39e&ring=bcb39e&fire=bcb39e&currStreakNum=fef8d6&sideNums=fef8d6&currStreakLabel=bcb39e&sideLabels=bcb39e&dates=fef8d6&background=3b364b' />
+<img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&title_color=bcb39e&text_color=fef8d6&icon_color=bcb39e&bg_color=3b364b' />
 
 
 <details close>
