@@ -1,6 +1,6 @@
-[![image](https://github.com/yunji0387/yunji0387/assets/59977078/6e86e70c-dc37-4a76-87fc-bc29b8c1fd53)][1]
+![image](https://github.com/yunji0387/yunji0387/assets/59977078/6e86e70c-dc37-4a76-87fc-bc29b8c1fd53)
 
-### Hi👋 &ensp; &bull; &ensp; [Web Portfolio](https://next-portfolio-zeta-hazel.vercel.app/)
+### Hi👋 &ensp; &bull; &ensp; <a href="https://next-portfolio-zeta-hazel.vercel.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/577e82b5-2a99-49ba-99f0-818d7b3b96f0" alt="portfolioLogo" height="22" width="22" /></a> &ensp; <a href="www.linkedin.com/in/yunjihow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="18" width="18" /></a> &ensp; <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="22" width="22" /></a>
 
 ---
 
@@ -10,24 +10,15 @@
 |---|---|---|
 | Next Admin System | Web | [web link](https://next-form-app-pi.vercel.app/) &middot; [repo link](https://github.com/yunji0387/next-form-app) |
 | Asset Trend | Web | [repo link](https://github.com/yunji0387/goldtrend-app) |
-| Restaurant App | Web | [web link](https://meta-fe-capstone.vercel.app/) &middot; [repo link](https://github.com/yunji0387/meta-fe-capstone) |
-| Weather App | Web | [web link](https://sky-cast-854836ef4892.herokuapp.com/) &middot; [repo link](https://github.com/yunji0387/weather-app) |
 | Express Auth Server | API | [repo link](https://github.com/yunji0387/next-form-app-auth-backend) |
-| Football League Standings API Server | API | [URL link](https://football-standings-backend-9c023af5d229.herokuapp.com/) &middot; [repo link](https://github.com/yunji0387/football-standings-backend) |
-| Asset Price API Server | API | [repo link](https://github.com/yunji0387/goldtrend) |
-| 2D Platformer Game | Game | [repo link](https://github.com/yunji0387/my-first-godot-game) |
+| Football League Standings API | API | [URL link](https://football-standings-backend-9c023af5d229.herokuapp.com/) &middot; [repo link](https://github.com/yunji0387/football-standings-backend) |
+| Asset Price API | API | [repo link](https://github.com/yunji0387/goldtrend) |
+| 2D Platformer | Game | [repo link](https://github.com/yunji0387/my-first-godot-game) |
 | Space Shooter | Game | [repo link](https://github.com/yunji0387/space-shooter) |
 | Football Mobile App | Mobile | [prototytpe link](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1) &middot; [repo link](https://github.com/yunji0387/football-app) |
 | Sentiment Analysis on Yelp Reviews | Academic | [report link](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) &middot; [repo link](https://github.com/Makiato1999/COMP4710_Yelp) |
 | Computer graphics - Ray tracing techniques | Academic | [report link](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) &middot; [repo link](https://github.com/yunji0387/Ray_Tracing_Project) |
 | AVR Microcontroller - Scheduling Algorithm | Academic | [repo link](https://github.com/yunji0387/AVR-Microcontroller-commands) |
-
----
-
-### Contact
-<a href="https://www.linkedin.com/in/yun-ji-how-64025220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="38" width="38" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="50" width="50" /></a>
 
 ---
 
@@ -40,13 +31,9 @@
 
 ---
 
-Last Update: 14/Apr/2025
-
----
-
 📄 Note
 <details close>
-<summary><b>(click to expand/hide)</b></summary>
+<summary><b>click to expand/hide</b></summary>
 <!-- MarkdownTOC -->
 
 - [DevOps notes](https://github.com/yunji0387/devops-note)
@@ -66,4 +53,6 @@ Last Update: 14/Apr/2025
 <!-- /MarkdownTOC -->
 </details>
 
-[1]: https://next-portfolio-zeta-hazel.vercel.app/
+---
+
+Last Update: 20/Apr/2025
