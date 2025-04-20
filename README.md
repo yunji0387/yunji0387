@@ -1,4 +1,4 @@
-![image](https://github.com/yunji0387/yunji0387/assets/59977078/6e86e70c-dc37-4a76-87fc-bc29b8c1fd53)
+![readmeBG](https://github.com/user-attachments/assets/7451d9b4-2bda-4867-b920-ad8474937bad)
 
 ### Hi👋 &ensp; &bull; &ensp; <a href="https://next-portfolio-zeta-hazel.vercel.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/577e82b5-2a99-49ba-99f0-818d7b3b96f0" alt="portfolioLogo" height="22" width="22" /></a> &ensp; <a href="www.linkedin.com/in/yunjihow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="18" width="18" /></a> &ensp; <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="22" width="22" /></a>
 
