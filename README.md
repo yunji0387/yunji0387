@@ -4,6 +4,10 @@
 
 ---
 
+```
+yunji0387@gmail.com
+```
+
 ### Projects
 
 | Name | Type | Links |
@@ -21,31 +25,21 @@
 | AVR Microcontroller - Scheduling Algorithm | Academic | [repo link](https://github.com/yunji0387/AVR-Microcontroller-commands) |
 
 
-### Stats 
+<details close>
+<summary><b>:bar_chart:Stats</b></summary>
+<!-- MarkdownTOC -->
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=yunji0387&color=1AB385)
 
 <img width=500 src='https://github-readme-stats.vercel.app/api?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&title_color=bcb39e&text_color=fef8d6&icon_color=bcb39e&bg_color=3b364b' />
+
+---
+
 <img width=500 src='https://github-readme-streak-stats.herokuapp.com?user=yunji0387&theme=vue-dark&hide_border=true&title_color=bcb39e&text_color=bcb39e&stroke=bcb39e&ring=bcb39e&fire=bcb39e&currStreakNum=fef8d6&sideNums=fef8d6&currStreakLabel=bcb39e&sideLabels=bcb39e&dates=fef8d6&background=3b364b' />
+
+---
+
 <img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&title_color=bcb39e&text_color=fef8d6&icon_color=bcb39e&bg_color=3b364b' />
-
-
-<details close>
-<summary><b>📄 Note</b></summary>
-<!-- MarkdownTOC -->
-
-- [DevOps](https://github.com/yunji0387/devops-note)
-- [Computer Science](https://github.com/yunji0387/cs-note)
-- [Microsoft Azure](https://github.com/yunji0387/microsoft-azure-notes)
-- [UX/UI Design Principles](https://github.com/yunji0387/ux-ui-note)
-- [.NET](https://github.com/yunji0387/dotnet_commands)
-- [Git](https://github.com/yunji0387/GitCommands)
-- [React](https://github.com/yunji0387/react-commands)
-- [JavaScript](https://github.com/yunji0387/JS-Template)
-- [HTML metadata](https://github.com/yunji0387/html_notes)
-- [Mongo/Mongoose](https://github.com/yunji0387/Mongo-Mongoose-Commands)
-- [Django](https://github.com/yunji0387/django-commands)
-- [C#](https://github.com/yunji0387/CSharp_commands)
-- [AVR Microcontroller](https://github.com/yunji0387/AVR-Microcontroller-commands/tree/main)
 
 <!-- /MarkdownTOC -->
 </details>
