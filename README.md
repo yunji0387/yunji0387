@@ -8,7 +8,11 @@
 yunji0387@gmail.com
 ```
 
-### Projects
+<details close>
+<summary><b>Projects</b></summary>
+<!-- MarkdownTOC -->
+
+<div align="center">
 
 | Name | Type | Links |
 |---|---|---|
@@ -24,9 +28,13 @@ yunji0387@gmail.com
 | Computer graphics - Ray tracing techniques | Academic | [report link](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) &middot; [repo link](https://github.com/yunji0387/Ray_Tracing_Project) |
 | AVR Microcontroller - Scheduling Algorithm | Academic | [repo link](https://github.com/yunji0387/AVR-Microcontroller-commands) |
 
+</div>
+
+<!-- /MarkdownTOC -->
+</details>
 
 <details close>
-<summary><b>:bar_chart:Stats</b></summary>
+<summary><b>Stats</b></summary>
 <!-- MarkdownTOC -->
 
 <div align="center">
