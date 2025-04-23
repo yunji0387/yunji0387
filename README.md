@@ -14,19 +14,19 @@ yunji0387@gmail.com
 
 <div align="center">
 
-| Name | Type | Links |  |
-|---|---|---|---|
-| Next Admin System | Web | [web](https://next-form-app-pi.vercel.app/) | [repo](https://github.com/yunji0387/next-form-app) |
-| Asset Trend | Web |  | [repo](https://github.com/yunji0387/goldtrend-app) |
-| Express Auth Server | API |  | [repo](https://github.com/yunji0387/next-form-app-auth-backend) |
-| Football League Standings API | API | [URL](https://football-standings-backend-9c023af5d229.herokuapp.com/) | [repo](https://github.com/yunji0387/football-standings-backend) |
-| Asset Price API | API |  | [repo](https://github.com/yunji0387/goldtrend) |
-| 2D Platformer | Game |  | [repo](https://github.com/yunji0387/my-first-godot-game) |
-| Space Shooter | Game |  | [repo](https://github.com/yunji0387/space-shooter) |
-| Football Mobile App | Mobile | [prototytpe](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1) | [repo](https://github.com/yunji0387/football-app) |
-| Sentiment Analysis on Yelp Reviews | Academic | [report](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) | [repo](https://github.com/Makiato1999/COMP4710_Yelp) |
-| Computer graphics - Ray tracing techniques | Academic | [report](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) | [repo](https://github.com/yunji0387/Ray_Tracing_Project) |
-| AVR Microcontroller - Scheduling Algorithm | Academic |  | [repo](https://github.com/yunji0387/AVR-Microcontroller-commands) |
+| Name | Type | Links |
+|---|---|---|
+| [Next Admin System](https://github.com/yunji0387/next-form-app) | Web | [web](https://next-form-app-pi.vercel.app/) |
+| [Asset Trend](https://github.com/yunji0387/goldtrend-app) | Web |  |
+| [Express Auth Server](https://github.com/yunji0387/next-form-app-auth-backend) | API |  |
+| [Football League Standings API](https://github.com/yunji0387/football-standings-backend) | API | [URL](https://football-standings-backend-9c023af5d229.herokuapp.com/) |
+| [Asset Price API](https://github.com/yunji0387/goldtrend) | API |  |
+| [2D Platformer](https://github.com/yunji0387/my-first-godot-game) | Game |  |
+| [Space Shooter](https://github.com/yunji0387/space-shooter) | Game |  |
+| [Football Mobile App](https://github.com/yunji0387/football-app) | Mobile | [prototytpe](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1) |
+| [Sentiment Analysis on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) | Academic | [report](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) |
+| [Computer graphics - Ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project) | Academic | [report](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) |
+| [AVR Microcontroller - Scheduling Algorithm](https://github.com/yunji0387/AVR-Microcontroller-commands) | Academic | |
 
 </div>
 
