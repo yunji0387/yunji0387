@@ -45,7 +45,7 @@ yunji0387@gmail.com
 
 <img width=600 src='https://github-readme-streak-stats.herokuapp.com?user=yunji0387&theme=vue-dark&hide_border=true&title_color=bcb39e&text_color=bcb39e&stroke=bcb39e&ring=bcb39e&fire=bcb39e&currStreakNum=fef8d6&sideNums=fef8d6&currStreakLabel=bcb39e&sideLabels=bcb39e&dates=fef8d6&background=3b364b' />
 
-<img width=600 src='https://github-readme-stats-yun-jis-projects.vercel.app/api/top-langs/?username=yunji0387&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&title_color=bcb39e&text_color=fef8d6&icon_color=bcb39e&bg_color=3b364b' />
+<img width=600 src='https://github-readme-stats-yun-jis-projects.vercel.app/api/top-langs/?username=yunji0387&theme=vue-dark&layout=donut&show_icons=true&hide_border=true&title_color=bcb39e&text_color=fef8d6&icon_color=bcb39e&bg_color=3b364b' />
 
 </div>
 
