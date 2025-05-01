@@ -8,30 +8,29 @@
 yunji0387@gmail.com
 ```
 
+
 <details close>
 <summary><b>Projects</b></summary>
 <!-- MarkdownTOC -->
 
+
 <div align="center">
 
-| Name | Type | Links |
-|---|---|---|
-| [Next Admin System](https://github.com/yunji0387/next-form-app) | Web | [web](https://next-form-app-pi.vercel.app/) |
-| [Asset Trend](https://github.com/yunji0387/goldtrend-app) | Web |  |
-| [Express Auth Server](https://github.com/yunji0387/next-form-app-auth-backend) | API |  |
-| [Football League Standings API](https://github.com/yunji0387/football-standings-backend) | API | [URL](https://football-standings-backend-9c023af5d229.herokuapp.com/) |
-| [Asset Price API](https://github.com/yunji0387/goldtrend) | API |  |
-| [2D Platformer](https://github.com/yunji0387/my-first-godot-game) | Game |  |
-| [Space Shooter](https://github.com/yunji0387/space-shooter) | Game |  |
-| [Football Mobile App](https://github.com/yunji0387/football-app) | Mobile | [prototytpe](https://www.figma.com/proto/DQjKrrghk5lFthOAxRRKjQ/football-app?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=wwDYsnl1DdWEedYQ-1) |
-| [Sentiment Analysis on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) | Academic | [report](https://github.com/Makiato1999/COMP4710_Yelp/blob/main/ProjectReport.pdf) |
-| [Computer graphics - Ray tracing techniques](https://github.com/yunji0387/Ray_Tracing_Project) | Academic | [report](https://github.com/yunji0387/Ray_Tracing_Project/blob/main/COMP4490_Project_Report.pdf) |
-| [AVR Microcontroller - Scheduling Algorithm](https://github.com/yunji0387/AVR-Microcontroller-commands) | Academic | |
+<a href="https://github.com/yunji0387/next-form-app" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2d360947-a3ed-435b-b6a8-ceec4167a737" alt="nextAdmin" height="200" width="200" /></a>
+<a href="https://github.com/yunji0387/goldtrend-app" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8239efe5-07ed-441a-a796-e98ea85d8688" alt="assetTrend" height="200" width="200" /></a>
+<a href="https://github.com/yunji0387/football-app" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e7f3f163-b52e-453e-8ee0-ec1e9085000d" alt="footballApp" height="200" width="200" /></a>
+<a href="https://github.com/yunji0387/space-shooter" target="blank"><img align="center" src="https://github.com/user-attachments/assets/66230714-687b-4de3-826c-551113e17254" alt="spaceShooter" height="200" width="200" /></a>
+<a href="https://github.com/yunji0387/Ray_Tracing_Project" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f26bd751-86bf-4db8-8d41-abd6bf5bf0f7" alt="rayTracing" height="200" width="200" /></a>
+<a href="https://github.com/Makiato1999/COMP4710_Yelp" target="blank"><img align="center" src="https://github.com/user-attachments/assets/cf28bdde-2c9e-4a92-8c98-24c0f05ba4ca" alt="yelpDataMining" height="200" width="200" /></a>
+<a href="https://github.com/yunji0387/AVR-Microcontroller-commands" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e180a691-d5da-4b93-8611-53827e2665bb" alt="avrController" height="200" width="200" /></a>
+<a href="https://en.wikipedia.org/wiki/Cristiano_Ronaldo" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e6a7858b-1215-40c1-8e1f-a73daa4f7150" alt="siu" height="200" width="200" /></a>
 
 </div>
 
+
 <!-- /MarkdownTOC -->
 </details>
+
 
 <details close>
 <summary><b>Stats</b></summary>
