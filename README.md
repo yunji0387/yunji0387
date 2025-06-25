@@ -56,7 +56,7 @@ yunji0387@gmail.com
 <!-- MarkdownTOC -->
 <div align="left">
 
-<br>&ensp;&emsp;<a href="https://next-portfolio-zeta-hazel.vercel.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/577e82b5-2a99-49ba-99f0-818d7b3b96f0" alt="portfolioLogo" height="45" width="45" /></a> &ensp; <a href="www.linkedin.com/in/yunjihow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="35" width="35" /></a> &ensp; <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="45" width="45" /></a>
+<br>&ensp;&emsp;<a href="https://www.yunji.uk/contact" target="blank"><img align="center" src="https://github.com/user-attachments/assets/577e82b5-2a99-49ba-99f0-818d7b3b96f0" alt="portfolioLogo" height="45" width="45" /></a> &ensp; <a href="www.linkedin.com/in/yunjihow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="35" width="35" /></a> &ensp; <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="45" width="45" /></a>
 
 </div>
 
