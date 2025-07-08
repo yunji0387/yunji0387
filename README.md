@@ -54,7 +54,7 @@ yunji0387@gmail.com
 <!-- MarkdownTOC -->
 <div align="left">
 
-<br>&ensp;&emsp;<a href="https://www.yunji.uk/contact" target="blank"><img align="center" src="https://github.com/user-attachments/assets/577e82b5-2a99-49ba-99f0-818d7b3b96f0" alt="portfolioLogo" height="45" width="45" /></a> &ensp; <a href="www.linkedin.com/in/yunjihow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="35" width="35" /></a> &ensp; <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmailIcon" height="45" width="45" /></a>
+<br>&ensp;&emsp;<a href="https://www.yunji.uk/contact" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7969a444-904a-42a2-a20a-dedf66af351e" alt="portfolioLogo" height="50" width="50" /></a> &ensp; <a href="www.linkedin.com/in/yunjihow" target="blank"><img align="center" src="https://github.com/user-attachments/assets/b48c7699-a1bd-4048-9c5c-1859eb6ec6b6" alt="linkedIn" height="50" width="50" /></a> &ensp; <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4c890f8a-87e3-4af5-95be-a0088a0c3666" alt="emailIcon" height="50" width="50" /></a>
 
 </div>
 
