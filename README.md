@@ -7,7 +7,7 @@ yunji0387@gmail.com
 
 <div align="left">
 
-<a href="https://www.yunji.uk" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7969a444-904a-42a2-a20a-dedf66af351e" alt="portfolioLogo" height="50" width="50" /></a> &ensp; <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4c890f8a-87e3-4af5-95be-a0088a0c3666" alt="emailIcon" height="50" width="50" /></a> &ensp; <a href="www.linkedin.com/in/yunjihow" target="blank"><img align="center" src="https://github.com/user-attachments/assets/b48c7699-a1bd-4048-9c5c-1859eb6ec6b6" alt="linkedIn" height="50" width="50" /></a> &ensp; <a href="https://github.com/yunji0387/notes" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4adaeb62-51ba-4499-9036-708f5a4f9cde" alt="noteLogo" height="50" width="50" /></a>
+<a href="https://www.yunji.uk" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7969a444-904a-42a2-a20a-dedf66af351e" alt="portfolioLogo" height="50" width="50" /></a> &ensp; <a href="mailto:yunji0387@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4c890f8a-87e3-4af5-95be-a0088a0c3666" alt="emailIcon" height="50" width="50" /></a> &ensp; <a href="www.linkedin.com/in/yunjih" target="blank"><img align="center" src="https://github.com/user-attachments/assets/b48c7699-a1bd-4048-9c5c-1859eb6ec6b6" alt="linkedIn" height="50" width="50" /></a> &ensp; <a href="https://github.com/yunji0387/notes" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4adaeb62-51ba-4499-9036-708f5a4f9cde" alt="noteLogo" height="50" width="50" /></a>
 
 </div>
 
